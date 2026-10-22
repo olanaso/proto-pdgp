@@ -1,1 +1,0 @@
-var e=`/PDGP/assets/login-bg-5TeyhAPx.png`;export{e as t};

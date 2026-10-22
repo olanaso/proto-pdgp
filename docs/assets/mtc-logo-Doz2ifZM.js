@@ -1,1 +1,0 @@
-var e=`/PDGP/assets/mtc-logo-Cy6z1HjR.png`;export{e as t};
