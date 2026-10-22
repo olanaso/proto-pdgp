@@ -1,0 +1,13 @@
+{
+  "name": "Recolector de campo · PDGP MTC",
+  "short_name": "Campo PDGP",
+  "description": "Padrón y caracterización de predios en campo, para tablet y celular.",
+  "start_url": "/recolector-campo",
+  "scope": "/recolector-campo",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "es-PE",
+  "background_color": "#F3F4F6",
+  "theme_color": "#C8102E",
+  "icons": [{ "src": "/icono-campo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

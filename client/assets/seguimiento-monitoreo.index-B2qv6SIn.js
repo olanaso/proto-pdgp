@@ -1,0 +1,1 @@
+import{i as e}from"./rolldown-runtime-aKtaBQYM.js";import{t}from"./react-lCSYwAWP.js";import{t as n}from"./useNavigate-Dxszd7q1.js";var r=e(t());function i(){let e=n();return(0,r.useEffect)(()=>{e({to:`/seguimiento-monitoreo/general`,replace:!0})},[e]),null}export{i as component};
